@@ -31,21 +31,26 @@
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/react-native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=black">
   <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="c" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white">
-  <img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="csharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white">
-  <img alt="espressif" src ="https://img.shields.io/badge/espressif-E7352C.svg?&style=for-the-badge&logo=espressif&logoColor=white">
-  <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white">
-   <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white">
-   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-   <img src="https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="c" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white">
+  <img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img alt="csharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white">
+  <img alt="arm" src ="https://img.shields.io/badge/arm-0091BD.svg?&style=for-the-badge&logo=arm&logoColor=white">
+  <img alt="espressif" src ="https://img.shields.io/badge/espressif-E7352C.svg?&style=for-the-badge&logo=espressif&logoColor=white">
+  <img alt="stmicroelectronics" src ="https://img.shields.io/badge/stmicroelectronics-03234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white">
+  <img alt="mqtt" src ="https://img.shields.io/badge/mqtt-660066.svg?&style=for-the-badge&logo=mqtt&logoColor=white">
+   <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white">
+   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+   <img src="https://img.shields.io/badge/redhat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
 </div>
 <br />
 <br />
